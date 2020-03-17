@@ -7,4 +7,4 @@
     2.哔哩哔哩动画封面获取<br>
     3.哔哩哔哩动画相册爬取
 </p1>
-Bilibili(b站)视频下载 ![enter image description here](Pic/logo.png)
+
