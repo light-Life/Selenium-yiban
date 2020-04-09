@@ -20,7 +20,7 @@ def chart():
             if os.path.exists('c:/img') == True:
                 print('\n正在写入文件\t>>>>>>>>>>>>>>>>>>>>>')
                 with open('c:/img/%s' + name, 'wb') as f:  # 以字符串的形式写入
-                    f.write(position_rq.content)  # 只接受requests形式
+                    f.write(position_rq.content)  # 只接受str形式
             else:
                 print('\n在C盘创建img的文件夹')
                 os.mkdir('c:/img')
