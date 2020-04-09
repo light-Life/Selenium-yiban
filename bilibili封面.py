@@ -26,7 +26,7 @@ def chart():
                 os.mkdir('c:/img')
                 print('\n正在写入文件\t>>>>>>>>>>>>>>>>>>>>>')
                 with open('c:/img/%s' + name, 'wb') as f:  # 以字符串的形式写入
-                    f.write(position_rq.content)  # 只接受requests形式
+                    f.write(position_rq.content)  # 只接受str形式
             print('\n文件已保存\tC:/img')
 
 chart()
