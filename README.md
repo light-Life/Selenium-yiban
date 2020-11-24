@@ -1,7 +1,7 @@
 <h1>Python自动化易班自动发布投票 ，自动点赞、 投票、 评论脚本</h1><br>
 <p1>
-    详细配置文档请见：https://hellohy.top/huayang/1485.html
-本代码优势：
+    详细配置文档请见：https://hellohy.top/huayang/1485.html<br>
+本代码优势：<br>
 1.可以刷共建指数<br>
 2.完全模拟真人点击防封率大大提升<br>
 3.采用多线程刷分效率大大提高<br>
