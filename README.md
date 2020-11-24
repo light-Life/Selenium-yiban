@@ -1,5 +1,5 @@
-#Python自动化易班自动发布投票 ，自动点赞、 投票、 评论脚本<br>
-##详细配置文档请见：https://hellohy.top/huayang/1485.html<br>
+# Python自动化易班自动发布投票 ，自动点赞、 投票、 评论脚本<br>
+## 详细配置文档请见：https://hellohy.top/huayang/1485.html<br>
 <p1>
 本代码优势：<br>
 1.可以刷共建指数<br>
